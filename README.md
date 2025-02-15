@@ -44,4 +44,4 @@ You can install the required libraries using the following command:
 To change the color of the checkerboard, modify the `cmap` parameter in the `plt.imshow()` function in the `checkerboard.py` file. For example:
 
 ```python
-plt.imshow(board, cmap="inferno")  # Replace "inferno" with any other colormap
+plt.imshow(board, cmap="viridis")  # Replace "viridis" with any other colormap
