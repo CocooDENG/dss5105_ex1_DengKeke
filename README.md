@@ -24,15 +24,19 @@ You can install the required libraries using the following command:
 
    `cd dss5105_ex1_DengKeke`
 
-3. Install the required libraries:
+3. To ensure you have Python 3.x installed, you can check by running the following command in your terminal:
+
+    `python3 --version`
+
+   Or install the required libraries:
 
    `pip install numpy matplotlib`
 
-4. Run the Python script:
+5. Run the Python script:
 
    `python3 checkerboard.py`
 
-5. View the result:
+6. View the result:
    - After running the script, a checkerboard pattern will be displayed.
 
 ## Customizing the Checkerboard Color
