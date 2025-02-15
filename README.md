@@ -28,7 +28,7 @@ You can install the required libraries using the following command:
 
     `python3 --version`
 
-   Or install the required libraries:
+   Install the required libraries:
 
    `pip install numpy matplotlib`
 
