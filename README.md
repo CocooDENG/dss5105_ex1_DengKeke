@@ -18,11 +18,11 @@ You can install the required libraries using the following command:
 
 1. Clone this repository to your local machine:
 
-   `git clone https://github.com/your-username/your-repository-name.git`
+   `git clone https://github.com/CocooDENG/dss5105_ex1_DengKeke.git`
 
 2. Navigate to the project directory:
 
-   `cd your-repository-name`
+   `cd dss5105_ex1_DengKeke`
 
 3. Install the required libraries:
 
